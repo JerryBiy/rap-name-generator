@@ -8,5 +8,5 @@
  To open locally:
  1. download the repo.
  2. run "npm i" in the terminal
- 3. run "node index.js" in the terminal
+ 3. run "npm start" in the terminal
  4. go to http://localhost:3000/
