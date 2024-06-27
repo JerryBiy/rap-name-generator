@@ -1,5 +1,5 @@
 # rap-name-generator
- A web that can generate random rap names. Used Node.js, Express, EJS, and Npm
+ A web that can generate random rap names. Used Node.js, Expres.js, EJS, and Npm
  
  To open from Render cloud service:
  
