@@ -1,0 +1,12 @@
+<%- include('partials/header.ejs') %>
+<% if(locals.rapName){ %>
+<h1><%= locals.rapName %></h1>
+<% } else {%>
+<h1> Welcome to the Rap Name Generator 🤑</h1>
+<% } %>
+
+<form action="/submit" method="POST">
+  <input type="submit" value="Generate Name">
+</form>
+
+<%- include('partials/footer.ejs') %>
